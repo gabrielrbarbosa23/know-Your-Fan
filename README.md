@@ -49,7 +49,7 @@ node index.js
 
 ## 📫 Contato
 
--Portfólio: https://gabrielrbarbosa23.github.io/portfolio/
--LinkedIn: https://www.linkedin.com/in/gabriel-rabello-barbosa-204aa7142/
--Instagram: https://www.instagram.com/gabrielrbarbosa/
--WhatsApp: +55 21 99687-2504
+- Portfólio: https://gabrielrbarbosa23.github.io/portfolio/
+- LinkedIn: https://www.linkedin.com/in/gabriel-rabello-barbosa-204aa7142/
+- Instagram: https://www.instagram.com/gabrielrbarbosa/
+- WhatsApp: +55 21 99687-2504
